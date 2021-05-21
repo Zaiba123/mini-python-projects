@@ -1,0 +1,13 @@
+body {
+    color: rgb(241, 150, 65);
+    background-color: rgb(252, 245, 173);
+}
+
+.stButton>button {
+    color: #de6378;;
+    border-radius: 50%;
+    height: 12em;
+    width: 12em;
+    margin: auto;
+    transform: translateX(50%);
+}
